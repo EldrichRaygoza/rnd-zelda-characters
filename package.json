@@ -1,0 +1,23 @@
+{
+  "name": "rnd-zelda-characters",
+  "version": "1.0.0",
+  "description": "A Random Message About Characters from The Legend of Zelda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EldrichRaygoza/rnd-zelda-characters.git"
+  },
+  "author": "Eldrich Raygoza <raygozaeldrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EldrichRaygoza/rnd-zelda-characters/issues"
+  },
+  "homepage": "https://github.com/EldrichRaygoza/rnd-zelda-characters#readme",
+  "bin": {
+    "rnd-zelda-characters": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
