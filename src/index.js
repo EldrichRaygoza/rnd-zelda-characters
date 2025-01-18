@@ -50,7 +50,7 @@ const characters = [
 ];
 
 const zeldaCharacter = () => {
-    const character = characters[Math.floor(Math.random * messages.length)];
+    const character = characters[Math.floor(Math.random() * characters.length)];
     console.log(`\x1b[34m${character}\x1b[89m`);
 }
 
