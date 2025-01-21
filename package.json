@@ -1,6 +1,6 @@
 {
   "name": "rnd-zelda-characters",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Random Message About Characters from The Legend of Zelda",
   "main": "index.js",
   "scripts": {
